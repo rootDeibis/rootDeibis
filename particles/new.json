@@ -1,14 +1,14 @@
 {
   "particles": {
     "number": {
-      "value": 50,
+      "value": 600,
       "density": {
         "enable": true,
-        "value_area": 100
+        "value_area": 4409.383167380188
       }
     },
     "color": {
-      "value": "#fff"
+      "value": "#ffffff"
     },
     "shape": {
       "type": "image",
@@ -20,14 +20,14 @@
         "nb_sides": 5
       },
       "image": {
-        "src": "https://www.pngmart.com/files/5/Confetti-Transparent-PNG.png",
+        "src": "https://toppng.com/public/uploads/thumbnail/transparent-background-birthday-confetti-11563313303i0tebhkcew.png",
         "width": 100,
         "height": 100
       }
     },
     "opacity": {
       "value": 0.5,
-      "random": true,
+      "random": false,
       "anim": {
         "enable": false,
         "speed": 1,
@@ -36,28 +36,28 @@
       }
     },
     "size": {
-      "value": 76.16207289111233,
+      "value": 112.2388442605866,
       "random": true,
       "anim": {
-        "enable": false,
-        "speed": 40,
-        "size_min": 0.1,
+        "enable": true,
+        "speed": 58.469559285696846,
+        "size_min": 25.174393581341697,
         "sync": false
       }
     },
     "line_linked": {
       "enable": false,
-      "distance": 500,
+      "distance": 150,
       "color": "#ffffff",
       "opacity": 0.4,
-      "width": 2
+      "width": 1
     },
     "move": {
       "enable": true,
       "speed": 1,
-      "direction": "top",
+      "direction": "bottom",
       "random": false,
-      "straight": false,
+      "straight": true,
       "out_mode": "out",
       "bounce": false,
       "attract": {
@@ -72,11 +72,11 @@
     "events": {
       "onhover": {
         "enable": false,
-        "mode": "bubble"
+        "mode": "repulse"
       },
       "onclick": {
         "enable": false,
-        "mode": "repulse"
+        "mode": "push"
       },
       "resize": true
     },
@@ -84,14 +84,14 @@
       "grab": {
         "distance": 400,
         "line_linked": {
-          "opacity": 0.5
+          "opacity": 1
         }
       },
       "bubble": {
         "distance": 400,
-        "size": 4,
-        "duration": 0.3,
-        "opacity": 1,
+        "size": 40,
+        "duration": 2,
+        "opacity": 8,
         "speed": 3
       },
       "repulse": {
