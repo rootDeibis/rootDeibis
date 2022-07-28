@@ -1,9 +1,9 @@
 {
   "particles": {
     "number": {
-      "value": 600,
+      "value": 390,
       "density": {
-        "enable": true,
+        "enable": false,
         "value_area": 800
       }
     },
@@ -17,16 +17,16 @@
         "color": "#000000"
       },
       "polygon": {
-        "nb_sides": 6
+        "nb_sides": 5
       },
       "image": {
-        "src": "https://images.vexels.com/media/users/3/188379/isolated/preview/ff2105f8ff7ee8c837241db688780118-icono-de-copo-de-nieve-de-navidad.png",
-        "width": 220,
-        "height": 220
+        "src": "https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/70040/snowflake-clipart-md.png",
+        "width": 50,
+        "height": 50
       }
     },
     "opacity": {
-      "value": 0.5,
+      "value": 0,
       "random": false,
       "anim": {
         "enable": false,
@@ -36,8 +36,8 @@
       }
     },
     "size": {
-      "value": 10,
-      "random": true,
+      "value": 20,
+      "random": false,
       "anim": {
         "enable": false,
         "speed": 40,
@@ -54,8 +54,8 @@
     },
     "move": {
       "enable": true,
-      "speed": 6,
-      "direction": "none",
+      "speed": 1,
+      "direction": "bottom",
       "random": false,
       "straight": false,
       "out_mode": "out",
@@ -71,7 +71,7 @@
     "detect_on": "canvas",
     "events": {
       "onhover": {
-        "enable": false,
+        "enable": true,
         "mode": "repulse"
       },
       "onclick": {
