@@ -1,7 +1,1 @@
-### Welcome my little friend
-
-![alt text](https://i.imgur.com/LpDqdV3.gif)
-![alt text](https://i.imgur.com/Jh0GVuW.gif)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rootDeibis&show_icons=true)  ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=rootDeibis)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rootDeibis)]
+![Image](https://github-stats-alpha.vercel.app/api?username=rootDeibis&cc=000&tc=fff&ic=fff&bc=000)
