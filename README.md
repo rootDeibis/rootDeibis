@@ -31,7 +31,7 @@
 <h5 align="center" >📚 Frameworks and Libraries</h5>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,electron,nextjs,vue,nuxt,angular,express,nestjs,django,flask,laravel,astro,electron,tauri,tailwind,sass,vite,flutter" />
+    <img src="https://skillicons.dev/icons?i=react,electron,nextjs,vue,nuxt,angular,express,nestjs,django,flask,laravel,astro,tauri,tailwind,sass,vite,flutter" />
   </a>
   <br/>
 
