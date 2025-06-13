@@ -16,10 +16,46 @@
 
 
 
-<h2 align="left">🛠️ Some of my tech stack</h2>
+<h5 align="center">🛠️ Programming Languages and HTML</h5>
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,js,ts,html,css,tailwind,sass,nodejs,express,nestjs,python,django,flask,go,php,laravel,rust,mongodb,mysql,postgresql,redis,docker,kubernetes,aws,gcp,git,firebase,astro,nuxt&perline=15" />
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,python,go,java,php,rust,c,cs,dart" />
+  </a>
+  <br/>
+
+</p>
+<br/>
+<br/>
+<br/>
+<h5 align="center" >📚 Frameworks and Libraries</h5>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,electron,nextjs,vue,nuxt,angular,express,nestjs,django,flask,laravel,astro,electron,tauri,tailwind,sass,vite,flutter" />
+  </a>
+  <br/>
+
+</p>
+
+<br/>
+<br/>
+<br/>
+<h5 align="center">🗃️ Databases</h5>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis" />
+  </a>
+  <br/>
+
+</p>
+<br/>
+<br/>
+<br/>
+
+<h5 align="center">☁️ DevOps / Cloud </h5>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,firebase,vercel" />
   </a>
   <br/>
 
